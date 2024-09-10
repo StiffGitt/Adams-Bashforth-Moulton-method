@@ -7,3 +7,5 @@ The project consists of:
 * Matlab scripts testing convergence of given method 
 * Matlab scripts testing numerical properties of given method
 * A report containing method description and analysis of numerical properties
+
+[Detailed description and tests (in Polish)](P1Z06_MWA.pdf)
